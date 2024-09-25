@@ -13,5 +13,5 @@ Para utilizar os scripts, siga os passos abaixo:
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu_usuario/Relatorios_Consinco_Totvs.git
+   git clone https://github.com/DhyegoSousa/Relatorios_Consinco_Totvs.git
    cd Relatorios_Consinco_Totvs
